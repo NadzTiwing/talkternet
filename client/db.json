@@ -1,0 +1,41 @@
+{
+  "users": [],
+  "room": [
+    {
+      "room": "123",
+      "chat": [
+        {
+          "date": "2023-01-25T03:32:48.262Z",
+          "user": "ryland",
+          "message": "hi, Dr. Grace"
+        },
+        {
+          "date": "2023-01-25T03:33:04.692Z",
+          "user": "grace",
+          "message": "oh hi!"
+        },
+        {
+          "date": "2023-01-25T03:33:28.942Z",
+          "user": "ryland",
+          "message": "hello. testing"
+        },
+        {
+          "date": "2023-01-25T03:33:34.035Z",
+          "user": "grace",
+          "message": "test"
+        },
+        {
+          "date": "2023-01-25T03:33:35.399Z",
+          "user": "grace",
+          "message": "123"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "room": "test",
+      "chat": [],
+      "id": 2
+    }
+  ]
+}
